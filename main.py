@@ -27,7 +27,7 @@ class Thesaurus(Wox):
       # count letters in word
       iRunningTotal = iRunningTotal + len(aWords[i])
       # if running total > 80 then create fragment array
-      if (iRunningTotal > 70) or (i == len(aWords)-1):
+      if (iRunningTotal > 66) or (i == len(aWords)-1):
         #print("h: " + str(h) + "   i: " + str(i))
         if firstTimeFlag == True:
           #print("FIRST TIME:")
