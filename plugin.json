@@ -1,12 +1,12 @@
 {
-    "ID":"5e150d32-07af-4eb9-9c04-97b27d384806",
+    "ID":"5e150d3207af4eb99c0497b27d384806",
     "ActionKeyword":"t",
     "Name":"Thesaurus",
     "Description":"Thesaurus",
     "Author":"jonathanvisser",
-    "Version":"1.0",
+    "Version":"1.0.0",
     "Language":"python",
-    "Website":"http://www.getwox.com",
+    "Website":"https://github.com/jonathanvisser/wox-thesaurus",
     "IcoPath":"Images\\app.ico",
     "ExecuteFileName":"main.py"
 }
