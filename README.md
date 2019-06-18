@@ -1,7 +1,7 @@
 ## Description
 A plugin that allows you to look-up any word from "Big Huge Thesaurus" (http://words.bighugelabs.com). This is great if you do a lot of writing - allowing you to stay in flow whilst spicing up your language with Wox's heads-up display.
 
-![docs/wox-thesaurus.gif]()
+![img](https://github.com/jonathanvisser/wox-thesaurus/raw/master/docs/wox-thesaurus.gif)
 
 ## First things
 Please sign-up here for your own free API key: http://words.bighugelabs.com/api.php and edit the "main.py" file entering your API key value against the "API_KEY" constant.
