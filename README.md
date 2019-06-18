@@ -1,6 +1,8 @@
 ## Description
 A plugin that allows you to look-up any word from "Big Huge Thesaurus" (http://words.bighugelabs.com). This is great if you do a lot of writing - allowing you to stay in flow whilst spicing up your language with Wox's heads-up display.
 
+![docs/wox-thesaurus.gif]()
+
 ## First things
 Please sign-up here for your own free API key: http://words.bighugelabs.com/api.php and edit the "main.py" file entering your API key value against the "API_KEY" constant.
 
@@ -11,4 +13,4 @@ Please sign-up here for your own free API key: http://words.bighugelabs.com/api.
 * When words return many results, these are wrapped across multiple lines.
 
 ## Notes
-This is a Python plug-in and requires that Python is installed and in your "Path" variable. Although Wox states that it comes with a Python environment, on Windows, none of the Python plug-ins worked for me. So I installed Python and manually set the path variable, as shown here.
+This is a Python plug-in and requires that [Python](https://www.python.org/downloads/) is installed and in your "Path" variable. Although Wox states that it comes with a Python environment, on Windows, none of the Python plug-ins worked for me. So I installed Python and manually set the path variable, as shown [here](https://www.pythoncentral.io/add-python-to-path-python-is-not-recognized-as-an-internal-or-external-command/).
